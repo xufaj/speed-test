@@ -9,7 +9,7 @@ client.on("ready", async() => {
 console.log(`Back Online In ${client.guilds.size} Servers!`);
 console.log(`https://discordapp.com/oauth2/authorize?client_id=518124792138956821&permissions=2080374975&scope=bot\nInvite Me To Your Server!`);
     setTimeout(() => {
-        client.user.setActivity(`-{prefix}help | V 1.1`, {type: "WATCHING"});
+        client.user.setActivity(`-help | BRODCAST BOT`, {type: "WATCHING"});
     }, 3000);
 });
 
