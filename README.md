@@ -1,2 +1,0 @@
-# botmc-bot
-hleolrelrleroeoroer
